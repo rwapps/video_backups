@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Protection & Human Rights",
+    "id": "PLis1OTL4y_TTcSzb6S4xt9-qAME6U-O8v",
+    "defaultImg": "images/ochaTheme/cluster_protection_100px_bluebox.png"
+  },
+  {
+    "title": "Health",
+    "id": "PLis1OTL4y_TQUe5QIB7Gec6ZosSMa2H_s",
+    "defaultImg": "images/ochaTheme/cluster_health_100px_bluebox.png"
+  },
+  {
+    "title": "Food & Nutrition",
+    "id": "PLis1OTL4y_TRaf3M1aNObN9Evg8E3VfAe",
+    "defaultImg": "images/ochaTheme/cluster_nutrition_100px_bluebox.png"
+  }
+]
